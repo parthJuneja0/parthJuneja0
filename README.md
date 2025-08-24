@@ -12,17 +12,15 @@
 
 
 ## 🎓 About Me 
-- 🔭 I’m currently working on  
+- 🔭 I’m currently working at ISGS Tech Pvt. Ltd.
 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Data Structures and Algorithms
 
 - 👨‍💻 All of my projects are available at [https://github.com/parthJuneja0](https://github.com/parthJuneja0)
 
-- 📝 I regularly write articles on 
-
 - 📫 How to reach me **parthjuneja040@gmail.com**
 
-- 📄 Know about my experiences [deepanshi.vercel.app]()
+- 📄 Know about my experiences [Portfolio Website Coming soon!] 
 
 ---
 
