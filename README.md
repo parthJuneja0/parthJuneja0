@@ -11,20 +11,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-## 🎓 About Me 
-- 🔭 I’m currently working at ISGS Tech Pvt. Ltd.
-
-- 🌱 I’m currently learning Data Structures and Algorithms
-
-- 👨‍💻 All of my projects are available at [https://github.com/parthJuneja0](https://github.com/parthJuneja0)
-
-- 📫 How to reach me **parthjuneja040@gmail.com**
-
-- 📄 Know about my experiences [Portfolio Website Coming soon!] 
-
----
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/parthjuneja4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parthjuneja0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parthjuneja040@gmail.com) 
 
